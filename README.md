@@ -1,5 +1,5 @@
 # bigchillpixel
-Personal Website
+Hello.
 
 This is a personal project and some samples of my work in UX, UI and digital advertising. I've really come full circle and have designed for many clients and companies. Every day there's a new problem to solve and that's what gets me going.
 
